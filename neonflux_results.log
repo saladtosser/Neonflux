@@ -1,0 +1,2 @@
+Authentication Enforcement - [FAIL] Authentication bypassed! Response code: 403
+SQL Injection - [FAIL] Potential SQL injection detected with payload: 1' OR '1'='1
