@@ -24,7 +24,7 @@ NeonFlux is a Python-based API security testing tool designed for ethical hackin
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/NeonFlux-API-Tester.git
+   git clone https://github.com/saladtosser/NeonFlux-API-Tester.git
    cd NeonFlux-API-Tester
    ```
 
@@ -99,7 +99,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 🌐 Contact
 
 - **Author**: saladb0y  
-- **GitHub**: [https://github.com/your-username](https://github.com/saladtosser)
+- **GitHub**: [https://github.com/saladtosser](https://github.com/saladtosser)
 - **Instagram**: [https://Instagram.com/mydemiseismyown]
 
 If you find any bugs, issues, or have suggestions for improvements, feel free to open an issue in the repository.
