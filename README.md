@@ -99,7 +99,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 🌐 Contact
 
 - **Author**: saladb0y  
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
+- **GitHub**: [https://github.com/your-username](https://github.com/saladtosser)
+- **Instagram**: [https://Instagram.com/mydemiseismyown]
 
 If you find any bugs, issues, or have suggestions for improvements, feel free to open an issue in the repository.
 
